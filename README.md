@@ -3,4 +3,4 @@ Managing "README.md". The one who is managing is Sigron Niño A. Rios and will b
 ## Authors
 [Sigron](https://github.com/riossigron)
 ## Sample Code
-printf('Hello World');
+printf( 'Hello World' );
