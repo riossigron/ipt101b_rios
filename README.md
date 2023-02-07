@@ -6,3 +6,5 @@ Managing "README.md". The one who is managing is Sigron Niño A. Rios and will b
 printf( 'Hello World' );
 ## How to Install
 - Step 1: Download the zip file or use git clone
+
+Commit 1
